@@ -1,5 +1,5 @@
 # ADA SANTANDER - Curso Digital
-# Design Patterns em Java
+# Módulo 08 - Design Patterns em Java
 
 ## 01 - A
 
