@@ -1,5 +1,5 @@
 # ADA SANTANDER - Curso Digital
-# Git e Versionamento
+# Módiulo 01 - Git e Versionamento
 
 ## 01 - O que é Git?
 Git é um sistema de versionamento de código, que guarda os registros de versão como snapshots do estado do projeto, além da referência/caminho para esse snapshot. O Snapshot é uma Hash do código. <br />
