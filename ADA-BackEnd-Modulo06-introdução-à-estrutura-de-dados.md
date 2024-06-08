@@ -1,5 +1,5 @@
 # ADA SANTANDER - Curso Digital
-# 
+# Módulo 06 - Introdução à estrutura de dados
 
 ## 01 - A
 
@@ -14,9 +14,3 @@
 ## 06 - A
 
 ## 07 - A
-
-## 08 - A
-
-## 09 - A
-
-## 10 - A
