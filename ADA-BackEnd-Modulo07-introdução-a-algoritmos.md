@@ -1,5 +1,5 @@
 # ADA SANTANDER - Curso Digital
-# 
+# Módulo 07 - Introdução a algoritmos
 
 ## 01 - A
 
@@ -20,3 +20,7 @@
 ## 09 - A
 
 ## 10 - A
+
+## 11 - A
+
+## 12 - A
