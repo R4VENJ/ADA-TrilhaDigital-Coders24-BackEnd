@@ -15,7 +15,7 @@ A maioria das operações feitas pelo Git são locais e por isso boa parte das o
 
 ## Repositórios do Git
 ### Clone
-> git clone https://github.com/R4VENJ/git-digital-course.git
+> git clone https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd.git
 ### Create
 > git init
 
@@ -67,7 +67,7 @@ Staged (COMMIT)---->  Unmodified
 > git diff origin/main
 
 ## GitHub
-https://github.com/R4VENJ/git-digital-course/blob/main/README.md
+https://github.com/R4VENJ/
 
 ## Git branch
 ### Nova Branch
