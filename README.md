@@ -2,9 +2,7 @@
 
 ## Gravando mudanças no repositório
 ## Salvando modificações no Git
-
-
-*Mudança pelo VSCode
+*Mudança pelo VSCode <br />
 *Mudança pelo site
 
 Avançar de Unmodified to Modified 
@@ -16,8 +14,7 @@ Retroceder de Modified to Unmodified
 Visualizar diferenças
 > git diff
 
-
-
+<br />
 
 Avançar de Modified to Staged
 > git add .\README.md
@@ -28,8 +25,7 @@ Retroceder de Staged to Modified
 Visualizar diferenças
 > git diff –staged
 
-
-
+<br />
 
 Avançar de Staged to Unmodified
 > git commit -m "add new title"
@@ -40,10 +36,9 @@ Avançar para Committed
 Log de Commits
 > git log
 
+<br />
 
-
-
-Publicar no GitHub
+Publicar no GitHub <br />
 Verificar Remotes
 > git remote
 
@@ -52,3 +47,7 @@ Subir
 
 Baixar
 > git pull origin main
+
+Fetch
+> git fetch
+> git diff origin/main
