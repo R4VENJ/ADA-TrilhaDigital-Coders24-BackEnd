@@ -1,42 +1,38 @@
 # ADA SANTANDER - Curso Digital
 # Git e Versionamento
 
-## O que é Git?
+## 01 - O que é Git?
 Git é um sistema de versionamento de código, que guarda os registros de versão como snapshots do estado do projeto, além da referência/caminho para esse snapshot. O Snapshot é uma Hash do código. <br />
 A maioria das operações feitas pelo Git são locais e por isso boa parte das operações são praticamente instantâneas devido à facilidade de acessar arquivos em seu próprio computador. <br />
 
-## Instalando e configurando o Git
+## 02 - Instalando e configurando o Git
 ### Versão
 > git --version
-
 ### Configurações Iniciais
 > git config --global user.name "r4venj" <br />
 > git config --global user.email r4venj@x.x
 
-## Repositórios do Git
+## 03 - Repositórios do Git
 ### Clone
 > git clone https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd.git
 ### Create
 > git init
 
-## Gravando mudanças no repositório
-
-## Salvando modificações no Git
+## 04 - Gravando mudanças no repositório
+### Salvando modificações no Git
 ###### Mudança pelo VSCode
 ###### Mudança pelo site GitHub
-
 ### Estados do GIT
-Untracked <br />
-Unmodified (SAVE)----> Modified <br />
-Modified (ADD)----> Staged <br />
-Staged (COMMIT)---->  Unmodified
-
+###### Untracked
+###### Unmodified (SAVE)----> Modified
+###### Modified (ADD)----> Staged
+###### Staged (COMMIT)---->  Unmodified
 #### Avançar de Unmodified to Modified 
 > Editar Arquivo e Salvar
 #### Retroceder de Modified to Unmodified
 > git restore .\README.md
 
-## Git diff e commit
+## 05 - Git diff e commit
 #### Visualizar diferenças
 > git diff
 #### Avançar de Modified to Staged
@@ -46,7 +42,7 @@ Staged (COMMIT)---->  Unmodified
 #### Visualizar diferenças
 > git diff –staged
 
-## Git log e restore
+## 06 - Git log e restore
 #### Avançar de Staged to Unmodified
 > git commit -m "add new title"
 #### Avançar para Committed
@@ -54,7 +50,7 @@ Staged (COMMIT)---->  Unmodified
 #### Log de Commits
 > git log
 
-## Repositórios remotos
+## 07 - Repositórios remotos
 ### Publicar no GitHub
 #### Verificar Remotes
 > git remote
@@ -66,10 +62,10 @@ Staged (COMMIT)---->  Unmodified
 > git fetch <br />
 > git diff origin/main
 
-## GitHub
+## 08 - GitHub
 https://github.com/R4VENJ/
 
-## Git branch
+## 09 - Git branch
 ### Nova Branch
 > git branch NEWBRANCH
 ### Encontrar Head
@@ -78,7 +74,7 @@ https://github.com/R4VENJ/
 ### Alterar Head
 > git log checkout NEWBRANCH
 
-## Merging branches
+## 10 - Merging branches
 ### Merge Branching
 > git merge NEWBRANCH
 
