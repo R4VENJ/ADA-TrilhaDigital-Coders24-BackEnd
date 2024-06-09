@@ -78,23 +78,29 @@ Não existe uma verificação de chegada de dados.
 ## 05 - IPV4 e IPV6
 ### IP - Internet Protocol
 #### IPV4
-000.000.000.000
-32 Bits combinados em 4 bytes (octetos de 8 bits)
-0 a 255 . 0 a 255 . 0 a 255 . 0 a 255
+- 000.000.000.000
+- 32 Bits combinados em 4 bytes (octetos de 8 bits)
+- 0 a 255 . 0 a 255 . 0 a 255 . 0 a 255
 ##### NAT
-A rede privada sai do modem utilizando o mesmo IP Publico.
+- A rede privada sai do modem utilizando o mesmo IP Publico.
 
 #### IPV6
-0000.0000.0000.0000.0000.0000.0000.0000
-128 bits divdidos em 16 pares de bits.
+- 0000.0000.0000.0000.0000.0000.0000.0000
+- 128 bits divdidos em 16 pares de bits.
 
 ## 06 - Cálculo de sub rede
 Cada departamento de uma empresa utiliza uma sub rede e elas se comunicam por uma rota estabelecida.
-* Classe A 1-127         MASCARA: CHHH 
-* Classe B 128-191       MASCARA: CCHH
-* Classe C 192-223       MASCARA: CCCH
+* Classe A 1-127
+  * MASCARA: CHHH 
+* Classe B 128-191
+  * MASCARA: CCHH
+* Classe C 192-223
+  * MASCARA: CCCH
 * Classe D 224-239 Multicast
 * Classe E 240-255 Experimental
+
+### Site para Calculos
+https://www.site24x7.com/
 
 ## 07 - Domínios, DNS e latência
 
