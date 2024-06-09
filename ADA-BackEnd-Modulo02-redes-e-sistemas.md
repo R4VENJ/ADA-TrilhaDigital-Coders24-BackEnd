@@ -39,22 +39,30 @@ Armário que armazena os dispositivos.
 
 ## 04 - Modelo OSI e TCP/IP
 ### Modelo OSI
+#### Camadas mais próximas do usuário
 * 7 Aplicação (Protocolo USSH, Protocolo DNS)
 * 6 Apresentação (Cryptography)
 * 5 Sessão (sessão de comunicação com o destino)
 ---
-* 4 Transporte
-----
+* 4 Transporte (protocolo TCP ou UDP)
+---
 * 3 Rede
---
+---
 * 2 Enlace
 * 1 Física
 
 ### Modelo TCP/IP
-* (7 6 5 Aplicação
+#### Camadas mais próximas do usuário
+* 4 Aplicação
 * 3 Transporte
 * 2 Internet
 * 1 Acesso a Rede
+
+### TCP
+Existe uma verificação de chegada de dados
+### UDP
+Não existe uma verificação de chegada de dados 
+* Característico de Streaming devido à alta velocidade.
 
 ## 05 - IPV4 e IPV6
 
