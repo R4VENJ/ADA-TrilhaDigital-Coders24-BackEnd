@@ -111,7 +111,7 @@ Endereço referencia IP público
 #### Detalhamento de um site:
 * HTTP:// = Protocolo
 * www = Subdominio
-* site.com = Domínio
+* site.com = Domíno
  * .com = TLD
 * /br = Subdiretório
 
