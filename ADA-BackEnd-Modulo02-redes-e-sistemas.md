@@ -2,7 +2,7 @@
 # Módulo 02 - Redes e Sistemas
 
 ## 01 - O que são redes?
-    Rede é a conexão entre 2 ou mais dispositivos que trocam informações por meio de uma linguagem pré-estabelecida chamada de protocolo.
+Rede é a conexão entre 2 ou mais dispositivos que trocam informações por meio de uma linguagem pré-estabelecida chamada de protocolo.
 ### História
 #### Início
 Darpa, Arpanet.
@@ -12,7 +12,7 @@ Darpa, Arpanet.
 Placa de rede, é o dispositivo responsável por mermitir a conexão do computador com o cabo de rede Ethernet ou por receber ondas de rádio frequência das conexões Wireless.
 ### Hub
 Conextar vários dispositivos. Problema: Não consegue realizar conexões ponto a ponto.
-### SWitch
+### Switch
 Conextar vários dispositivos. Problema: Consegue realizar conexões ponto a ponto.
 ### Roteador
 Procura melhor rota na internet para entregar os pacotes do remetente ao destinatário no menor tempo possível.
@@ -27,11 +27,11 @@ Padrões estabelecidos que definem como serão organizados os cabos e seus perif
 . ANSI/TIA 569
 ### Cabo de Par Trançado
 #### UTP
-    Dividido em 8 fios de cobre intertrançados.
+Dividido em 8 fios de cobre intertrançados.
 #### STP
-    Semelhante ao UTP opirém os pares trançados são isolados.
+Semelhante ao UTP opirém os pares trançados são isolados.
 ### Cabo Coaxial
-    Fio Central, condutor do puslo elétrico, tubo de silicone, malha metálica realizando isolamento e uma blindagem plástica.
+Fio Central, condutor do puslo elétrico, tubo de silicone, malha metálica realizando isolamento e uma blindagem plástica.
 
 ## 04 - Modelo OSI e TCP/IP
 
