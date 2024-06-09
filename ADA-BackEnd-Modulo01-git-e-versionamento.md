@@ -4,6 +4,11 @@
 ## 01 - O que é Git?
 Git é um sistema de versionamento de código, que guarda os registros de versão como snapshots do estado do projeto, além da referência/caminho para esse snapshot. O Snapshot é uma Hash do código. <br />
 A maioria das operações feitas pelo Git são locais e por isso boa parte das operações são praticamente instantâneas devido à facilidade de acessar arquivos em seu próprio computador. <br />
+### Styling git text
+#### "** **"
+**BOLD**
+#### "** **"
+**BOLD**
 
 ### Directory
 Folder where the project is stored.
