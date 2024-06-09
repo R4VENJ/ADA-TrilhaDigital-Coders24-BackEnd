@@ -115,8 +115,13 @@ Endereço referencia IP público
   * .com = TLD
 * /br = Subdiretório
 
+### Latência
+Distância do site que está sendo buscado. Pode-se usar caches locais para menor latência.
+
 ## 08 - Principais comandos de configuração
+### CMD
 
 ## 09 - Segurança
+
 
 ## 10 - Wireless
