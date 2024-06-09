@@ -1,20 +1,20 @@
 # ADA SANTANDER - Curso Digital
 # Módulo 03 - Introdução ao Java
 
-## 01 - A
+## 01 - Introdução ao Java
 
-## 02 - A
+## 02 - Setup
 
-## 03 - A
+## 03 - Variáveis
 
-## 04 - A
+## 04 - Operadores Booleanos | Tabela Verdade
 
-## 05 - A
+## 05 - Estruturas Condicionais
 
-## 06 - A
+## 06 - Manipulação de Strings e Datas
 
-## 07 - A
+## 07 - Laços Numéricos
 
-## 08 - A
+## 08 - Vetores
 
-## 09 - A
+## 09 - Funções
