@@ -38,6 +38,23 @@ A fibra Optica é a tecnologia guiada por cabo que oferece a maior velocidade de
 Armário que armazena os dispositivos.
 
 ## 04 - Modelo OSI e TCP/IP
+### Modelo OSI
+* 7 Aplicação (Protocolo USSH, Protocolo DNS)
+* 6 Apresentação (Cryptography)
+* 5 Sessão (sessão de comunicação com o destino)
+---
+* 4 Transporte
+----
+* 3 Rede
+--
+* 2 Enlace
+* 1 Física
+
+### Modelo TCP/IP
+* (7 6 5 Aplicação
+* 3 Transporte
+* 2 Internet
+* 1 Acesso a Rede
 
 ## 05 - IPV4 e IPV6
 
