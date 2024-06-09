@@ -120,6 +120,24 @@ Distância do site que está sendo buscado. Pode-se usar caches locais para meno
 
 ## 08 - Principais comandos de configuração
 ### CMD
+    ipconfig
+        * Mostra as configurações de IP do Windows.
+            * Placas de rede, IPV6, IPV4, Mascara, Gateway
+    cls
+        * CLear Screen
+    ipconfig /flushdns
+        * Comando para limpar o cache da máquina
+    ping google.com
+        * Verifica conexão
+    nslookup google.com
+        * Localizar DNS
+    tracert google.com
+        * Quantos roteadores passam a conexão?
+    route print
+        * 0.0.0.0 = Internet
+        * 127.0.0.0 = Rede Local
+    netstat
+        * Quais portas estão sendo utilizadas no PC?
 
 ## 09 - Segurança
 
