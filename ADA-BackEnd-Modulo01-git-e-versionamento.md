@@ -7,8 +7,20 @@ A maioria das operações feitas pelo Git são locais e por isso boa parte das o
 ### Styling git text
 #### "** **"
 **BOLD**
-#### "** **"
-**BOLD**
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 ### Directory
 Folder where the project is stored.
