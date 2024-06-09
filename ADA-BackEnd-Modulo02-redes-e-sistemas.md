@@ -39,34 +39,62 @@ Armário que armazena os dispositivos.
 
 ## 04 - Modelo OSI e TCP/IP
 ### Modelo OSI
+---
 #### Camadas mais próximas do usuário
-* 7 Aplicação (Protocolo USSH, Protocolo DNS)
-* 6 Apresentação (Cryptography)
+* 7 Aplicação (protocolo USSH, protocolo DNS)
+* 6 Apresentação (cryptography)
 * 5 Sessão (sessão de comunicação com o destino)
 ---
+#### Começa a parte de interface de Hardware
 * 4 Transporte (protocolo TCP ou UDP)
 ---
-* 3 Rede
+* 3 Rede (roteadores)
 ---
-* 2 Enlace
-* 1 Física
+#### Hardware
+* 2 Enlace (comunicação via switch, MAC Adress)
+* 1 Física (Protocolo Ethernet. Cabo, switch, modem etc.)
+---
 
 ### Modelo TCP/IP
+---
 #### Camadas mais próximas do usuário
 * 4 Aplicação
-* 3 Transporte
-* 2 Internet
+---
+#### Começa a parte de interface de Hardware
+* 3 Transporte (Protocolo TCP)
+---
+* 2 Internet (Protocolo IP)
+---
+#### Hardware
 * 1 Acesso a Rede
+---
 
 ### TCP
-Existe uma verificação de chegada de dados
+Existe uma verificação de chegada de dado.
 ### UDP
-Não existe uma verificação de chegada de dados 
+Não existe uma verificação de chegada de dados.
 * Característico de Streaming devido à alta velocidade.
 
 ## 05 - IPV4 e IPV6
+### IP - Internet Protocol
+#### IPV4
+000.000.000.000
+32 Bits combinados em 4 bytes (octetos de 8 bits)
+0 a 255 . 0 a 255 . 0 a 255 . 0 a 255
+##### NAT
+A rede privada sai do modem utilizando o mesmo IP Publico.
+
+#### IPV6
+0000.0000.0000.0000.0000.0000.0000.0000
+128 bits divdidos em 16 pares de bits.
 
 ## 06 - Cálculo de sub rede
+Cada departamento de uma empresa utiliza uma sub rede e elas se comunicam por uma rota estabelecida.
+* Classe A 1-127         MASCARA: CHHH 
+* Classe B 128-191       MASCARA: CCHH
+* Classe C 192-223       MASCARA: CCCH
+* Classe D 224-239 Multicast
+* Classe E 240-255 Experimental
 
 ## 07 - Domínios, DNS e latência
 
