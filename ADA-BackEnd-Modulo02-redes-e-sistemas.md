@@ -22,9 +22,9 @@ Procura melhor rota na internet para entregar os pacotes do remetente ao destina
 ## 03 - Cabeamento Estruturado
 Padrões estabelecidos que definem como serão organizados os cabos e seus periféricos.
 ### Normas
-. NBR 14.565
-. ANSI/TIA 568
-. ANSI/TIA 569
+* NBR 14.565
+* ANSI/TIA 568
+* ANSI/TIA 569
 ### Cabo de Par Trançado
 #### UTP
 Dividido em 8 fios de cobre intertrançados.
