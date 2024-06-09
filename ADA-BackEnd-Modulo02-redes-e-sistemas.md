@@ -32,6 +32,10 @@ Dividido em 8 fios de cobre intertrançados.
 Semelhante ao UTP opirém os pares trançados são isolados.
 ### Cabo Coaxial
 Fio Central, condutor do puslo elétrico, tubo de silicone, malha metálica realizando isolamento e uma blindagem plástica.
+### Fibra Óptica
+A fibra Optica é a tecnologia guiada por cabo que oferece a maior velocidade de transmissão de dados chegando a altas velocidades na casa dos Gbps. A fibra é composta por pedaçõs de vidros que permitem a propagação dos raios de luz que são convertidos por conversores nas extremidades das fibras.
+### Hack
+Armário que armazena os dispositivos.
 
 ## 04 - Modelo OSI e TCP/IP
 
