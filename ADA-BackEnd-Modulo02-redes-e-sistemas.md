@@ -112,7 +112,7 @@ Endereço referencia IP público
 * HTTP:// = Protocolo
 * www = Subdominio
 * site.com = Domíno
- * .com = TLD
+  - .com = TLD
 * /br = Subdiretório
 
 ## 08 - Principais comandos de configuração
