@@ -43,11 +43,15 @@ ls -la: List everything -including hidden
 #### Avançar de Modified to Staged
 > git add .\README.md
 #### Retroceder de Staged to Modified
-> git restore –staged .\README.md
+> git restore –staged .\README.md <br />
+> git reset .\README.md  <br />
+> git reset HASH
 #### Visualizar diferenças
 > git diff –staged
 
 ## 06 - Git log e restore
+#### status
+> git status
 #### Avançar de Staged to Unmodified
 > git commit -m "add new title"
 #### Avançar para Committed
@@ -57,10 +61,14 @@ ls -la: List everything -including hidden
 
 ## 07 - Repositórios remotos
 ### Publicar no GitHub
+#### Conectar com um repositório no GitHub
+> git remote add origin https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd.git
 #### Verificar Remotes
-> git remote
+> git remote -v
+#### status
+> git status
 #### Subir
-> git push origin main
+> git push -u origin main (-u to setup upstream)
 #### Baixar
 > git pull origin main
 #### Fetch
@@ -73,6 +81,7 @@ https://github.com/R4VENJ/
 ## 09 - Git branch
 ### Nova Branch
 > git branch NEWBRANCH
+> git checkout -b NEWBRANCH
 ### Encontrar Head
 > git branch <br />
 > git log –oneline –decorate
@@ -82,6 +91,8 @@ https://github.com/R4VENJ/
 ## 10 - Merging branches
 ### Merge Branching
 > git merge NEWBRANCH
+### Delete Branching
+> git branch -d NEWBRANCH
 
 
 
