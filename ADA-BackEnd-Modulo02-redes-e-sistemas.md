@@ -140,6 +140,8 @@ Distância do site que está sendo buscado. Pode-se usar caches locais para meno
         * Quais portas estão sendo utilizadas no PC?
 
 ## 09 - Segurança
-
+*
 
 ## 10 - Wireless
+* Cisco Packet Tracer
+https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US
