@@ -103,6 +103,17 @@ Cada departamento de uma empresa utiliza uma sub rede e elas se comunicam por um
 https://www.site24x7.com/
 
 ## 07 - Domínios, DNS e latência
+### Domínio
+Endereço referencia IP público
+### Extrutura DNS
+#### Top Level Domain
+.com .org .net etc.
+#### Detalhamento de um site:
+* HTTP:// = Protocolo
+* www = Subdominio
+* site.com = Domínio
+ * .com = TLD
+* /br = Subdiretório
 
 ## 08 - Principais comandos de configuração
 
