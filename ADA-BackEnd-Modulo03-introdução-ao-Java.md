@@ -2,8 +2,20 @@
 # Módulo 03 - Introdução ao Java
 
 ## 01 - Introdução ao Java
+* FRONTEND é a parte que se interage;
+* BACKEND é a parte que fica oculta interagindo com aplicações;
+* FULLSTACK é a combinação dos dois.
+### Downlooads
+* https://www.oracle.com/java/technologies/downloads/
+* https://www.jetbrains.com/idea/download/?section=windows
 
-## 02 - Setup
+### CMD
+> java -version
+> jshell
+> System.out.println("Hello World");
+> /exit
+
+]## 02 - Setup
 
 ## 03 - Variáveis
 
