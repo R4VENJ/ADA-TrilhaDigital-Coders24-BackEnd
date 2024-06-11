@@ -40,10 +40,13 @@
 https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/Main.java
 
 ## 04 - Operadores Booleanos | Tabela Verdade
+https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/Boolean.java
 
 ## 05 - Estruturas Condicionais
+https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/estruturaCondicional.java
 
 ## 06 - Manipulação de Strings e Datas
+https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/manipulandoStrings.java
 
 ## 07 - Laços Numéricos
 
