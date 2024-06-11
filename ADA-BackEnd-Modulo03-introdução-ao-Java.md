@@ -49,7 +49,10 @@ https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/estruturaCondici
 https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/manipulandoStrings.java
 
 ## 07 - Laços Numéricos
+https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/lacosNumericos.java
 
 ## 08 - Vetores
+https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/Vetores.java
 
 ## 09 - Funções
+https://github.com/R4VENJ/primeiro-projeto-java/blob/master/src/Functions.java
