@@ -2,7 +2,11 @@
 # Módulo 06 - Introdução à estrutura de dados
 
 ## 01 - Introduzindo estrutura de dados
-
+* Algoritmo  = Instruções + Dados
+* Tipos de dados Primitivos (Inteiros, Flutuantes, Caracteres, Booleanos)
+* Java
+  * Atributos
+  * Métodos
 
 ## 02 - Listas ligadas
 
