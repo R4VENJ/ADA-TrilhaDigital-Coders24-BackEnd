@@ -8,18 +8,18 @@ A trilha de cursos digitais de "Back End", preparada pela Ada especialmente para
 
 ## Módulos
 ### Módulo 01 - Git e Versionamento
-10 Aulas
+10 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo01-git-e-versionamento.md
 ### Módulo 02 - Redes e Sistemas
-10 Aulas
+10 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo02-redes-e-sistemas.md
 ### Módulo 03 - Introdução ao Java
-9 Aulas
+9 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo03-introdu%C3%A7%C3%A3o-ao-Java.md
 ### Módulo 04 - Programação Orientada a Objetos Básica em Java
-10 Aulas
+10 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo04-programa%C3%A7%C3%A3o-orientada-a-objetos-b%C3%A1sica-em-Java.md
 ### Módulo 05 - Banco de dados
-12 Aulas
+12 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo05-banco-de-dados.md
 ### Módulo 06 - Introdução à estrutura de dados
-7 Aulas
+7 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo06-introdu%C3%A7%C3%A3o-%C3%A0-estrutura-de-dados.md
 ### Módulo 07 - Introdução a algoritmos
-12 Aulas
+12 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo07-introdu%C3%A7%C3%A3o-a-algoritmos.md
 ### Módulo 08 - Design Patterns em Java
-10 Aulas
+10 Aulas - https://github.com/R4VENJ/ADA-TrilhaDigital-Coders24-BackEnd/blob/main/ADA-BackEnd-Modulo08-design-patterns-em-Java.md
