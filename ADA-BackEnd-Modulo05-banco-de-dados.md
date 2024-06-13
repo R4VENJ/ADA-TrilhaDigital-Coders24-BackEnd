@@ -26,7 +26,14 @@ https://online.visual-paradigm.com/w/mgdkpwxu/diagrams/?lightbox=1&highlight=000
 
 
 ## 05 - Normalização de dados
-
+### Formas Normais
+#### 1 - Cada atributo deve conter apenas 1 valor correspondente por registro (coluna)
+#### 2 - Cada elemento da tabela deve depender apenas de sua chave primária
+  Reduzir redundâncias torna o banco de dados mais simples para atualizações e redução do custo do espaço para armazenamento.
+#### 3 - Um elemento não chave da tabela não pode depender de outro elemento nao chave
+#### 3.5 - Boyce-Codd - A tabela não deve possuir mais de uma chave candidata
+#### Outras
+Também existem mais chaves como 4 e 5
 
 ## 06 - Exercícios de fixação I
 
