@@ -13,16 +13,18 @@ https://github.com/R4VENJ/Java_Orientado_Objeto/tree/master/src
 ### 08 - Polimorfismo
 ### 09 - Para virar mestre
 ### 10 - Conclusão
+* Garbage Collector
+* Acoplamento vs Herança
 
 
 #### Default:
-int, long, byte
-  0
-char
-  {}
-float
-  0.0
-String
-  null
-boolean
-  false
+* int, long, byte
+  * 0
+* char
+  * {}
+* float
+  * 0.0
+* String
+  * null
+* boolean
+  * false
