@@ -18,6 +18,7 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 ## 03 - Modelagem de entidades
 - entidade = representação de qualquer elemento
+
 https://online.visual-paradigm.com/
 
 ## 04 - Modelagem de relacionamentos
