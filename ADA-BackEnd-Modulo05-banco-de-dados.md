@@ -71,7 +71,7 @@ A tabela de médicos se relaciona com a tabela de pacientes usando a chave estra
 * Não há inserções
 ---
 > insert into disciplinas values <br />
-> > (1, 'portugues', 'literatura e gramática');
+> (1, 'portugues', 'literatura e gramática');
 ---
 > select * from disciplinas
 * Há 1 inserção
@@ -89,6 +89,11 @@ A tabela de médicos se relaciona com a tabela de pacientes usando a chave estra
 > 5,história,acontecimentos do passado e do futuro <br />
 > 6,geografia,geopolitica e cartografia <br />
 > 7,biologia,coropo humano e taxonomia
+---
+> copy disciplinas(id_disciplina,nome,ementa) <br />
+> from 'C:\Users\R4VEN\PostGreSQL\introducao_disciplinas.csv' <br />
+> delimiter ',' <br />
+> csv header
 
 ## 09 - Editando e removendo dados
 
