@@ -36,13 +36,59 @@ https://online.visual-paradigm.com/w/mgdkpwxu/diagrams/?lightbox=1&highlight=000
 Também existem mais chaves como 4 e 5
 
 ## 06 - Exercícios de fixação I
-
+### Considere que você está modelando uma tabela que representa as transações de cartão de crédito processadas por um sistema de meios de pagamento.
+#### Questão 1 -  Para o campo de "horário da transação”, qual tipo de dado você deve utilizar?
+https://www.postgresql.org/docs/16/datatype-datetime.html
+* datetime
+#### Questão 2 - Para o campo de "id”, que será chave primária da transação, qual tipo de dado é o mais adequado?
+https://www.postgresql.org/docs/16/datatype-numeric.html
+* bigint
+### Em um banco de dados, o estado de aprovação de um pedido de reembolso é armazenado com um campo Booleano. 
+#### Questão 3 - Sobre esse tipo de dado, assinale a alternativa correta.
+https://www.postgresql.org/docs/16/datatype-boolean.html
+* Ocupa 1 byte por registro
+### Em um supermercado, uma tabela de marcas contém registros como Nestlé e Lacta, enquanto uma lista de produtos contém entradas como Nescau e Diamante negro.
+#### Questão 4 - O relacionamento entre essas duas tabelas deve ser (considere o relacionamento de marca com produto, nesta ordem)
+* 1 para N - 1 Marca possui N produtos.
+### Em um pronto socorro, cada paciente tem um médico responsável, e cada médico atende pelo menos dez pacientes num dia.
+#### Questão 5 - Assim sendo, assinale a alternativa correta:
+A tabela de médicos se relaciona com a tabela de pacientes usando a chave estrangeira id_medico, contida na tabela de pacientes.
 
 ## 07 - Inserindo tabelas no banco
-
+> create table livros( <br />
+> 	id_livro integer, <br />
+> 	nome varchar(15), <br />
+> 	autor varchar(40), <br />
+> 	sinopse varchar(500), <br />
+> 	id_disciplina integer, <br />
+> 	primary key (id_livro), <br />
+> 	foreign key (id_disciplina) <br />
+> 	references disciplinas(id_disciplina) <br />
+> )
 
 ## 08 - Inserindo dados no banco
-
+> select * from disciplinas
+* Não há inserções
+---
+> insert into disciplinas values <br />
+> > (1, 'portugues', 'literatura e gramática');
+---
+> select * from disciplinas
+* Há 1 inserção
+---
+> insert into disciplinas values <br />
+> (2, 'matemática', 'algebra e geometria'), <br />
+> (3, 'física', 'cinemática e dinâmica');
+---
+> select * from disciplinas
+* Há 1 inserção
+---
+### arquivo.csv
+> id_disciplina,nome,ementa <br />
+> 4,química,transformacoes e processos químicos <br />
+> 5,história,acontecimentos do passado e do futuro <br />
+> 6,geografia,geopolitica e cartografia <br />
+> 7,biologia,coropo humano e taxonomia
 
 ## 09 - Editando e removendo dados
 
