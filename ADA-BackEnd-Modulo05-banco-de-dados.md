@@ -136,7 +136,7 @@ Indice é melhor quando se lê mais do que se escreve na tabela.
 ### Questão 1 - O comando que se utiliza para criar tabelas no postgreSQL é?
 CREATE TABLE
 ### Questão 2 - Você vai cadastrar 5 produtos no catálogo de jogos em uma loja de games, para isso, pretende usar uma única query. Como você pode fazer isso?
-Utilizar o comando INSERT FROM para copiar de um CSV.
+Utilizar o comando INSERT INTO, separando por vírgulas os valores subsequentes.
 ### Questão 3 - Considere a inserção de um registro que armazenará o nome de uma pessoa, sua idade e a data do cadastro. Neste caso, quais tipos de dados devem ser inseridos entre aspas?
 nome e data de nascimento
 ### Questão 4 - Ao editar uma linha com erro em uma tabela para alunos, você utilizou o comando abaixo para mudar o nome digitado errado de “Carlo” para “Carlos”.
