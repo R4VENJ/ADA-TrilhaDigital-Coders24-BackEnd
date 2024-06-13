@@ -96,6 +96,13 @@ A tabela de médicos se relaciona com a tabela de pacientes usando a chave estra
 > csv header
 
 ## 09 - Editando e removendo dados
+### Editando
+> update disciplinas set nome = 'biologia'
+> where id_disciplina = 7
+
+### Removendo
+> delete from disciplinas
+> where id_disciplina = 8
 
 
 ## 10 - Permissionamento e Views
