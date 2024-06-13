@@ -1,16 +1,22 @@
 # ADA SANTANDER - Curso Digital
 # Módulo 06 - Introdução à estrutura de dados
 
-## 01 - A
+## 01 - Introduzindo estrutura de dados
 
-## 02 - A
 
-## 03 - A
+## 02 - Listas ligadas
 
-## 04 - A
 
-## 05 - A
+## 03 - Pilhas
 
-## 06 - A
 
-## 07 - A
+## 04 - Filas
+
+
+## 05 - Árvores
+
+
+## 06 - Árvore binária de busca
+
+
+## 07 - Resolvendo problemas
