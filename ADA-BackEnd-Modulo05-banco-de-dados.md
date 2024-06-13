@@ -97,11 +97,11 @@ A tabela de médicos se relaciona com a tabela de pacientes usando a chave estra
 
 ## 09 - Editando e removendo dados
 ### Editando
-> update disciplinas set nome = 'biologia'
+> update disciplinas set nome = 'biologia' <br />
 > where id_disciplina = 7
 
 ### Removendo
-> delete from disciplinas
+> delete from disciplinas <br />
 > where id_disciplina = 8
 
 
