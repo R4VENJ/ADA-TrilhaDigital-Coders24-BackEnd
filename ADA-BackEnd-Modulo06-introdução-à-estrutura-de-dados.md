@@ -10,9 +10,35 @@
 
 Programa Lista de Supermercado:
 https://github.com/R4VENJ/ADA_Supermarket.git
+### TAD = Tipo Abstrato de Dados
+É o uso de uma estrutura de dados com operações ou comportamento específico.
+### Estrutura de Dados
+* Lista Ligada - Semelhante ao vetor, porém com limite dinâmico;
+* Pilha - 1 extremidade - Adição ou remoção de elementos acontece pelo topo da pilha;
+* Fila - 2 extremidades - Sempre se entra no final da fila e sai do início da fila;
+* Árvore - Multiplas formas de percorrer a árvore;
 ## 02 - Listas ligadas
-
-
+* Lista ligada ou Lista encadeada
+ * É uma estrutura de dados dinâmica, linear, formada por nós. Cada nó é capaz de armazenar uma informação e referenciar o próximo nó.
+1) Adicionar item
+ * No início (prepend)
+ * No fim (append)
+ * Em uma determinada posição (insert)
+2) Ler item
+ * Do início (getHead)
+ * Do fim (getTail)
+ * De uma determinada posição (get)
+3) Remover item
+ * No início (removeFirst)
+ * No fim (removeLast)
+ * Em uma determinada posição (delete)
+4) Imprimir
+5) Operações "opcionais":
+ * Tamanho atual (getLength)
+ * Está vazia? (isEmpty)
+ * Esvaziar Lista (makeEmpty)
+   
+https://github.com/R4VENJ/ADA_Lista_Ligada
 ## 03 - Pilhas
 
 
