@@ -65,7 +65,8 @@ A tabela de médicos se relaciona com a tabela de pacientes usando a chave estra
 > 	foreign key (id_disciplina) <br />
 > 	references disciplinas(id_disciplina) <br />
 > )
-
+### Comentários
+> -- comentário
 ## 08 - Inserindo dados no banco
 > select * from disciplinas
 * Não há inserções
@@ -106,9 +107,46 @@ A tabela de médicos se relaciona com a tabela de pacientes usando a chave estra
 
 
 ## 10 - Permissionamento e Views
+###### Atenção à LGPD
+> create view matricula_com_sigilo as <br />
+> ( <br />
+> select <br />
+>   id_matricula, <br />
+>   id_aluno, <br />
+>   validade <br />
+> from matricula <br />
+> )
 
+
+---
+> select * <br />
+> from matricula <br />
+* A * permite selecionar todas as colunas
+---
 
 ## 11 - Índices
-
+> select * from disciplinas <br />
+> where nome = 'geografia' <br />
+---
+create index idx_nome on disciplinas(nome)
+---
+Indice é melhor quando se lê mais do que se escreve na tabela.
 
 ## 12 - Exercícios II
+### Questão 1 - O comando que se utiliza para criar tabelas no postgreSQL é?
+CREATE TABLE
+### Questão 2 - Você vai cadastrar 5 produtos no catálogo de jogos em uma loja de games, para isso, pretende usar uma única query. Como você pode fazer isso?
+Utilizar o comando INSERT FROM para copiar de um CSV.
+### Questão 3 - Considere a inserção de um registro que armazenará o nome de uma pessoa, sua idade e a data do cadastro. Neste caso, quais tipos de dados devem ser inseridos entre aspas?
+nome e data de nascimento
+### Questão 4 - Ao editar uma linha com erro em uma tabela para alunos, você utilizou o comando abaixo para mudar o nome digitado errado de “Carlo” para “Carlos”.
+> UPDATE alunos set nome = ‘Carlos’
+#### Após executar a query, você percebe que algo de errado aconteceu, o que houve?
+Todos os alunos agora se chamam Carlos, pois faltou filtrar antes de editar.
+### Questão 5 - Um erro no sistema de cadastros gerou diversos cadastros errôneos que precisam ser excluídos. Todos os cadastros errados foram feitos no dia 2023-01-10 e pode-se considerar que todos os dados deste dia apresentam erros. Assinale a alternativa que representa uma query para remover esses registros.
+DELETE FROM cadastro WHERE data = ‘2023-01-10'
+
+
+
+
+
