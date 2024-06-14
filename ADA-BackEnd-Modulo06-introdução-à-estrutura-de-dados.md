@@ -60,10 +60,40 @@ Fila é uma estrutura de dados ordenada onde o primeiro elemento inserido será 
   
 A fila possui duas extremidades: uma por onde é feita a inserção de elementos (fim da fila) e outra por onde é feita a rmeoção de elementos (início da fila)
 
+1) Adicionar item (queue)
+2) Remover item (dequeue)
+3) Imprimir (print)
+4) Operações "opcionais":
+ * Primeiro da fila (getFirst)
+ * Último da fila (getLast)
+ * Tamanho da fila (getLength)
+https://github.com/R4VENJ/ADA_Lista_Ligada
+
+
 ## 05 - Árvores
+### Árvore binária
+Principais operações:
+1) Iniscialização
+2) Inserir
+3) É folha? (isLeaf)
+4) Travessia
+ * pré ordem
+    * Raíz -> Esquerda -> Direita
+ * em ordem
+    * Esquerda -> Raíz -> Direita
+ * pós ordem
+    * Esquerda -> Direita -> Raíz 
+5) Busca
+ * busca em Largura (BFS)
+ * busca em profundidade (DFS)
 
 
+https://github.com/R4VENJ/ADA_Lista_Ligada
 ## 06 - Árvore binária de busca
+
+https://github.com/R4VENJ/ADA_Lista_Ligada
 
 
 ## 07 - Resolvendo problemas
+
+rv
