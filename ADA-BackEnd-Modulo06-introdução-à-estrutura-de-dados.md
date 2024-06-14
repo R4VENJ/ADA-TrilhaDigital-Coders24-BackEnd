@@ -40,10 +40,25 @@ https://github.com/R4VENJ/ADA_Supermarket.git
    
 https://github.com/R4VENJ/ADA_Lista_Ligada
 ## 03 - Pilhas
+Pilha é uma estrutura de dados ordenada onde o último elemento inserido será o primeiro a ser retirado. 
+A extremidade por onde é feita a inserção e remoção de elementos é denominada TOP.
+* LIFO - Last IN First OUT
+* FILO - First IN Last OUT
+1) Adicionar item (push)
+2) Ler item (pop)
+3) Remover item (getTop)
+4) Imprimir (print)
+5) Operações "opcionais":
+ * Altura da pilha (getHeight)
 
 
+https://github.com/R4VENJ/ADA_Lista_Ligada
 ## 04 - Filas
-
+Fila é uma estrutura de dados ordenada onde o primeiro elemento inserido será o primeiro a ser retirado
+* FIFO - First IN First OUT
+* LILO - Last IN Last OUT
+  
+A fila possui duas extremidades: uma por onde é feita a inserção de elementos (fim da fila) e outra por onde é feita a rmeoção de elementos (início da fila)
 
 ## 05 - Árvores
 
