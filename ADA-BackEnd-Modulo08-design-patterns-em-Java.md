@@ -1,22 +1,14 @@
 # ADA SANTANDER - Curso Digital
 # Módulo 08 - Design Patterns em Java
+https://github.com/Design-pattrns
 
-## 01 - A
-
-## 02 - A
-
-## 03 - A
-
-## 04 - A
-
-## 05 - A
-
-## 06 - A
-
-## 07 - A
-
-## 08 - A
-
-## 09 - A
-
-## 10 - A
+## 01 - Apresentação
+## 02 - Builder
+## 03 - Factory Method
+## 04 - Singleton
+## 05 - Prototype
+## 06 - Proxy
+## 07 - Adapter
+## 08 - Strategy
+## 09 - Chain of Responsibility
+## 10 - Template Method
