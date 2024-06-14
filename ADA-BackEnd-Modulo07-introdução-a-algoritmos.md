@@ -1,10 +1,8 @@
 # ADA SANTANDER - Curso Digital
 # Módulo 07 - Introdução a algoritmos
 
-## 01 - Apresentando algoritmos
 Algorimo é uma sequência de passos que devem ser seguidos, como uma receita de bolo.
 
-## 02 - Fluxos simples e Sequencial
 Sequência de passos bem definida e explicita
 > * Inicio
 > * Entrada
@@ -12,6 +10,9 @@ Sequência de passos bem definida e explicita
 > * Saída
 > * Fim
 
+
+#### 01 - Apresentando algoritmos
+#### 02 - Fluxos simples e Sequencial
 #### 03 - Tipos de Dados
 #### 04 - Decisão
 #### 05 - Repetição
