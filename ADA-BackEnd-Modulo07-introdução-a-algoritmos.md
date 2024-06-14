@@ -1,16 +1,11 @@
 # ADA SANTANDER - Curso Digital
 # Módulo 07 - Introdução a algoritmos
-
-Algorimo é uma sequência de passos que devem ser seguidos, como uma receita de bolo.
-
-Sequência de passos bem definida e explicita
+Algorimo é uma sequência de passos, bem definida e explicita, que devem ser seguidos, como uma receita de bolo.
 > * Inicio
 > * Entrada
 > * Processamento
 > * Saída
 > * Fim
-
-
 #### 01 - Apresentando algoritmos
 #### 02 - Fluxos simples e Sequencial
 #### 03 - Tipos de Dados
