@@ -1,26 +1,26 @@
 # ADA SANTANDER - Curso Digital
 # Módulo 07 - Introdução a algoritmos
 
-## 01 - A
+## 01 - Apresentando algoritmos
 
-## 02 - A
+## 02 - Fluxos simples e Sequencial
 
-## 03 - A
+## 03 - Tipos de Dados
 
-## 04 - A
+## 04 - Decisão
 
-## 05 - A
+## 05 - Repetição
 
-## 06 - A
+## 06 - Exercícios de fixação I
 
-## 07 - A
+## 07 - Listas/Arrays
 
-## 08 - A
+## 08 - Funções
 
-## 09 - A
+## 09 - Exercício completo (pseudocódigo)
 
-## 10 - A
+## 10 - Desempenho de algoritmos
 
-## 11 - A
+## 11 - Dicas para montar algoritmos
 
-## 12 - A
+## 12 - Exercícios de fixação II
